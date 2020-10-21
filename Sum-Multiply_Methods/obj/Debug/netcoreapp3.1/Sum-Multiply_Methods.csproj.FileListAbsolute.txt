@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\bin\Debug\netcoreapp3.1\Sum-Multiply_Methods.exe
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\bin\Debug\netcoreapp3.1\Sum-Multiply_Methods.deps.json
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\bin\Debug\netcoreapp3.1\Sum-Multiply_Methods.runtimeconfig.json
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\bin\Debug\netcoreapp3.1\Sum-Multiply_Methods.runtimeconfig.dev.json
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\bin\Debug\netcoreapp3.1\Sum-Multiply_Methods.dll
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\bin\Debug\netcoreapp3.1\Sum-Multiply_Methods.pdb
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\obj\Debug\netcoreapp3.1\Sum-Multiply_Methods.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\obj\Debug\netcoreapp3.1\Sum-Multiply_Methods.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\obj\Debug\netcoreapp3.1\Sum-Multiply_Methods.AssemblyInfo.cs
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\obj\Debug\netcoreapp3.1\Sum-Multiply_Methods.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\obj\Debug\netcoreapp3.1\Sum-Multiply_Methods.dll
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\obj\Debug\netcoreapp3.1\Sum-Multiply_Methods.pdb
+C:\Users\owner\source\repos\Sum-Multiply_Methods\Sum-Multiply_Methods\obj\Debug\netcoreapp3.1\Sum-Multiply_Methods.genruntimeconfig.cache
